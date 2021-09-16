@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://cafefcdn.com/203337114487263232/2021/7/6/iu-dep-het-phan-thien-ha-1625544870260780111548.jpg);
+    font-family: sans-serif;
+    background-size: cover;
+    
+}
+.log{
+    background: #000;
+    color: #fff;
+    left: 50%;
+    position: absolute;
+    top: 75%;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+.avt{
+    width: 100px;
+    border-radius: 1000px;
+    position: absolute;
+    top: -50px;
+    left: 35%;
+}
+.log h1{
+    margin: 13px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+     text-shadow: #333333 4px 4px 4px;
+}
+.log p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    
+}
+.log input
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.log input[type="submit"]
+{
+    border: 12px;
+    background-color:#FFB6C1;
+    font-size: 17px;
+    outline:none;
+    border-radius: 20px;
+    height: 40px;
+    text-shadow: #333333 4px 4px 4px;
+}
+.log input[type="submit"]:hover
+{
+    cursor: pointer;
+    background-color: crimson;
+    color:black;
+}
+.log input[type="text"]
+{
+   border: 12px;
+    height:30px;
+    border-bottom: 0.5px solid #FFB6C1;
+    font-size: 17px;
+    outline:none;
+        color: aliceblue;
+    background: transparent;
+}
+.log input[type="password"]
+{
+    border: 12px;
+    height:30px;
+    border-bottom: 0.5px solid #FFB6C1;
+    font-size: 17px;
+    outline:none;
+        color: aliceblue;
+    background: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
