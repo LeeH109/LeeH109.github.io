@@ -50,22 +50,31 @@ body{
     height: 40px;
     text-shadow: #333333 4px 4px 4px;
 }
+.log input[type="submit"]:hover
+{
+    cursor: pointer;
+    background-color: crimson;
+    color:black;
+}
 .log input[type="text"]
 {
-    border:12 px;
-    background-color:bisque;
-    height:20px;
-    border-radius: 2px;
+   border: 12px;
     height:30px;
+    border-bottom: 0.5px solid #FFB6C1;
     font-size: 17px;
+    outline:none;
+        color: aliceblue;
+    background: transparent;
 }
 .log input[type="password"]
 {
     border: 12px;
-    background-color:bisque;
     height:30px;
-    border-bottom: 1px solid red;
+    border-bottom: 0.5px solid #FFB6C1;
     font-size: 17px;
+    outline:none;
+        color: aliceblue;
+    background: transparent;
 }
 
 
