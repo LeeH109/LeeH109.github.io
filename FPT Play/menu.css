@@ -125,8 +125,9 @@ h3.the1 {
     display: flex;
     flex-wrap: wrap;
     margin-top: 17px;
-    margin-left: 132px;
+   
     margin-bottom: 60px;
+    justify-content: center;
 }
 .pt1{
     margin-left: 15px;
@@ -159,6 +160,7 @@ h3.the1 {
     height: 290px;
     display: flex;
     background-color: rgba(0,0,0,0.87);
+    justify-content: center;
     
 }
 .cot1{
@@ -208,6 +210,7 @@ button.phai{
 .cot3{
     width: 443px;
     margin-top: 56px;
+    margin-left: 56px;
  
 }
 button.icon:hover{
